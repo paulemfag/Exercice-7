@@ -1,0 +1,16 @@
+li {
+    font: 1rem 'Fira Sans', sans-serif;
+    margin-bottom: .5rem;
+}
+
+.bloc1 {
+background-color:#5e68b3;
+}
+
+.bloc2 {
+background-color:#9122a5;
+}
+
+.bloc3 {
+background-color:#cf264a;
+}
